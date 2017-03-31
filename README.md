@@ -11,6 +11,10 @@
 
 # PaginationBundle
 
+This repository is for AnimeDbPaginationBundle. GpsLabPaginationBundle, the new version of PaginationBundle, has been released and is available at https://github.com/gpslab/pagination-bundle.
+
+AnimeDbPaginationBundle is no longer maintained and is now end of life.
+
 ## Installation
 
 Pretty simple with [Composer](http://packagist.org), run:
